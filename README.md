@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/spiritloose/MP4-LibMP4v2/workflows/test/badge.svg)](https://github.com/spiritloose/MP4-LibMP4v2/actions)
+[![Actions Status](https://github.com/spiritloose/MP4-LibMP4v2/workflows/test/badge.svg)](https://github.com/spiritloose/MP4-LibMP4v2/actions) [![MetaCPAN Release](https://badge.fury.io/pl/MP4-LibMP4v2.svg)](https://metacpan.org/release/MP4-LibMP4v2)
 # NAME
 
 MP4::LibMP4v2 - Perl interface to the libmp4v2

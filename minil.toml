@@ -1,7 +1,7 @@
 name = "MP4-LibMP4v2"
 license = "perl_5"
 module_maker = "ModuleBuild"
-badges = ['travis']
+badges = ['github-actions/test']
 [build]
 build_class = "builder::MyBuilder"
 [no_index]

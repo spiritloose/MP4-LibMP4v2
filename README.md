@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/spiritloose/MP4-LibMP4v2.svg?branch=master)](https://travis-ci.org/spiritloose/MP4-LibMP4v2)
+[![Actions Status](https://github.com/spiritloose/MP4-LibMP4v2/workflows/test/badge.svg)](https://github.com/spiritloose/MP4-LibMP4v2/actions)
 # NAME
 
 MP4::LibMP4v2 - Perl interface to the libmp4v2

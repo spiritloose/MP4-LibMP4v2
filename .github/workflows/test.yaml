@@ -18,7 +18,7 @@ jobs:
           perl-version: ${{ matrix.perl }}
       - name: Install libmp4v2-dev
         run: sudo apt-get update && sudo apt-get install -y libmp4v2-dev
-      - run: cpanm --installdeps .
+      - run: cpanm --installdeps --with-develop .
       - run: perl Build.PL
       - run: ./Build
       - run: ./Build test
